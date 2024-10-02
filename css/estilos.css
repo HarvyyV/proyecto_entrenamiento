@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: darkcyan;
+    color: white;
+}
+
+/* Estilos del Menú de Navegación */
+.navbar {
+    background-color: gray;
+}
+.navbar .nav-link {
+    color: black;
+}
+
+.navbar .nav-link:hover {
+    color: blue;
+}
+
+/* Estilos de las Tarjetas */
+.card {
+    border: solid 5px #535255;
+}
+
+.card .btn {
+    background-color: #535255;
+    color: white;
+}
+
+.card .btn:hover {
+    background-color: #535255;
+}
+
+.btn-primary {
+    background-color: #535255;
+    border-color: #535255;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: gray;
+}
+
+/* Estilos del pie de Página */
+footer {
+    background-color: gray;
+    color: black;
+}
